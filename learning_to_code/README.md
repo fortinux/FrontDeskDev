@@ -1,6 +1,5 @@
 # Learning to code
-Every web designer or front end developer will have to know at least the
-basics of this programming languages in order to success in their work.
+Every web designer or front end developer will have to know at least the basics of this programming languages in order to success in their work.
 
 Programming languages
 ---------------------
