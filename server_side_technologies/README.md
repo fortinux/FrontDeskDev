@@ -2,41 +2,44 @@
 Http transport layer
 --------------------
 
--   Request response model\
--   Headers\
--   Cookies\
--   Https certificates\
+-   Request response model
+-   Headers
+-   Cookies
+-   Https certificates
 -   Caching
 
 Web server
 ----------
 
--   CDN Content Distributed Network\
-    – Google Hosted Libraries\
-    – Cdnjs\
--   SSH\
--   FTP\
--   Plesk/CPanel/WHosts
+-   CDN Content Distributed Network
+    -   Google Hosted Libraries
+    -   Cdnjs
+-   SSH
+-   FTP
+-   Control panels
+    -   Plesk
+    -   CPanel
+    -   WHosts
 
 Full stack developer
 --------------------
 
--   LAMP\
-    – Linux\
-    – Apache\
-    – MySQL\
-    – PHP
+-   LAMP
+    -   Linux
+    -   Apache
+    -   MySQL
+-   PHP
 
--   Mean.io\
-    – MongoDB\
-    – Express\
-    – AngularJS\
-    – NodeJS
+-   Mean.io
+    -   MongoDB
+    -   Express
+    -   AngularJS
+    -   NodeJS
 
 Development environments
 ------------------------
 
--WAMP, MAMP, Fenix\
-- Virtual machines\
-- Vagrant & Puppet, chef\
+-WAMP, MAMP, Fenix
+- Virtual machines
+- Vagrant & Puppet, chef
 - Docker (LXC)

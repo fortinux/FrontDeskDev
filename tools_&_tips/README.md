@@ -2,7 +2,7 @@
 Editors
 -------
 
-- VIM 
+- VIM
 - Atom
 - Brackets
 - Zed Project
@@ -37,28 +37,28 @@ Image tools
 -----------
 
 -   Gimp
-    – fx foundry
-    – gimp-gap
+    -   fx foundry
+    -   gimp-gap
 -   Inkscape
 
 Browser extensions
 ------------------
 
 -   Firefox
-    – Firebug
-    – Web developer
-    – Rainbow
-    – Flagfox
-    – Dom inspector
-    – BuildWith
+    -   Firebug
+    -   Web developer
+    -   Rainbow
+    -   Flagfox
+    -   Dom inspector
+    -   BuildWith
 
 -   Chrome
-    – Web developer
-    – Accessibility Developer Tools
-    – BuildWith
-    – Devtools
-    – Git-Browser
-    – tedit-app
+    -   Web developer
+    -   Accessibility Developer Tools
+    -   BuildWith
+    -   Devtools
+    -   Git-Browser
+    -   tedit-app
 
 Emulations tools
 ----------------

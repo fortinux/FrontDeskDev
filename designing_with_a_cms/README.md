@@ -2,13 +2,13 @@
 CMS
 ---
 
--   Wordpress\
--   Joomla\
+-   Wordpress
+-   Joomla
 -   Drupal
 
 Statics webs
 ------------
 
--   Ghost\
--   Jekyll\
+-   Ghost
+-   Jekyll
 -   Docpad

@@ -18,9 +18,9 @@ Z-layout in web design
 Responsive web design
 ---------------------
 
--   Flexible grids\
--   Typography\
--   Images & media\
+-   Flexible grids
+-   Typography
+-   Images & media
 -   Media queries
 
 Accesibility
